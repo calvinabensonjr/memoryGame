@@ -12,5 +12,5 @@
 1. Download zip file
 2. Open zip file
 3. Open file in your code editor
-4. Right click to open memoryGame.html in browser
+4. Right click within memoryGame.html to open in browser locally
 5. Play the Memory Game
