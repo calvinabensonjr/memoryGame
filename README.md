@@ -2,6 +2,11 @@
 
 ![memoryBoard image](image/memoryBoard.png)
 
+##Tech Used:
+- HTMl
+- CSS
+- Javascript
+
 ## To Use
 
 1. Download zip file
