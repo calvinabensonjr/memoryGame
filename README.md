@@ -2,7 +2,7 @@
 
 ![memoryBoard image](image/memoryBoard.png)
 
-##Tech Used:
+## Tech Used:
 - HTMl
 - CSS
 - Javascript
